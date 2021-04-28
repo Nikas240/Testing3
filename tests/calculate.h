@@ -4,7 +4,7 @@
 #include <gtest/gtest.h>
 
 extern "C" {
-#include "functions.h"
+#include "tetrismodule.h"
 }
 
 //Проверка на добавление очков к изначально нулевой сумме
