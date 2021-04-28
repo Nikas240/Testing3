@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "tetrismodule.h"
 
 
 void cleararray(int field[20][10])
