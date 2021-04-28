@@ -16,13 +16,13 @@ LIBS += -lgcov
 
 
 HEADERS +=     \
-	../app/functions.h \
+	../app/tetrismodule.h \
     cleararray.h \
     calculate.h \
     check.h \
     calculate.h
 
 SOURCES +=     main.cpp \
-	../app/functions.c
+	../app/tetrismodule.c
 
 INCLUDEPATH += ../app
