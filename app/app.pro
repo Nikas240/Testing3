@@ -4,10 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.c \
-    functions.c
+    tetrismodule.c
 
 HEADERS += \
-    functions.h
+    tetrismodule.h
 
 QMAKE_CFLAGS += -Wall -Wextra -Werror
 
