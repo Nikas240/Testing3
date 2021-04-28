@@ -32,4 +32,4 @@ TEST(cleararray, num0) {
 }
 
 
-#endif // FIBONACHI_H
+#endif
